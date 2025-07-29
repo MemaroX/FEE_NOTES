@@ -1,1 +1,1 @@
-Docs: Add comprehensive README.md for Image Processing project within FEE_NOTES
+Docs: Add comprehensive README.md for FEE_NOTES, including sub-project details
