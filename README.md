@@ -1,4 +1,4 @@
-# FEE_NOTES: Faculty of Engineering Education Notes and Projects
+# FEE_NOTES: Faculty of Electrionic Engineering Notes and Projects
 
 `FEE_NOTES` is a comprehensive repository serving as a collection of academic notes, assignments, and projects from the Faculty of Engineering Education. It showcases a diverse range of topics, including C# programming fundamentals, Python-based data management systems, image processing, and cybersecurity.
 
